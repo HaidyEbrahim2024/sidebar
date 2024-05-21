@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.sidebar{
+    width: 250px;
+    height: 100vh;
+    background-color: blueviolet;
+}
+.sidebar1{
+    width: 50px;
+    height: 100vh;
+    background-color: blueviolet;
+}
+.main{
+    padding: 10px;
+    text-align: end;
+}
+.main1{
+    padding: 10px;
+    text-align: center;
+}
+.icon{
+    color: aliceblue;
+    font-size: 25px;
+}
+.icon1{
+    color: rgb(22, 91, 151);
+    font-size: 30px;
+}
+ul{
+    padding: 15px 0 0 15px;
+    list-style: none;
+    gap: 20px;
+
+}
+li{
+    text-align: center;
+    margin-top: 16px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+
+}
+a{
+    font-size: 22px;
+    text-align: center;
+    color:white;
+    text-decoration: none;
+}
